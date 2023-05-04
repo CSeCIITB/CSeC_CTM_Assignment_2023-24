@@ -1,4 +1,4 @@
-# CSeC_CTM_Assignment_2023-24
+# CSeC Core Team Member Assignment 2023-24
 
 Ahoy, CTM applicants!
 
