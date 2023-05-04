@@ -10,4 +10,4 @@ The aim of a write-up is to provide y'er captains as much insight into y'er trai
 
 Fair winds and following seas, sailors!
 
-Flag Format: CSeC{...}
+Flag Format: ```CSeC{...}```
