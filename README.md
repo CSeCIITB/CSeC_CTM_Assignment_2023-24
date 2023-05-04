@@ -11,3 +11,9 @@ The aim of a write-up is to provide y'er captains as much insight into y'er trai
 Fair winds and following seas, sailors!
 
 **Flag Format:** ```CSeC{...}```
+
+## Score Distribution
+1. Black Flag - 50 points
+2. Custom Crypto - 100 points
+2. Quack Say - 150 points
+4. Something Whaley - 300 points
