@@ -1,4 +1,4 @@
-# Quack_Say
+# Quack Say
 
 Quack is hibernating and is sleep-talking. Can you exploit his slumber to extract a couple of flags?
 
