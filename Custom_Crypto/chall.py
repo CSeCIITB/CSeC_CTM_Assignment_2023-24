@@ -33,4 +33,5 @@ epitaph = "".join(epitaph)
 
 epitaph = "".join(list(compress(epitaph, jack_o_lantern*len(THREAT))))
 
-print(hauntify(epitaph.encode()).decode())
+with open("chocolate.txt", 'w') as f:
+    f.write(hauntify(epitaph.encode()).decode())
