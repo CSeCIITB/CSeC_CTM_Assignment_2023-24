@@ -10,7 +10,7 @@ def spooky_fn(ghost):
         for lady_love in range(2, int(will_o_the_wisp(ghost)) + 1):
             if (ghost % lady_love == 0):
                 casper = 1
-            break
+                break
         if (casper == 0):
             return True
         else:
@@ -19,7 +19,7 @@ def spooky_fn(ghost):
         return False
 
 
-assert claw in range(int(1e+0), int(1e+4))
+assert claw in range(int(7200), int(7300))
 assert len(THREAT) <= 30
 assert spooky_fn(len(THREAT))
 
