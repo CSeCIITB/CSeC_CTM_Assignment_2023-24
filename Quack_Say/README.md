@@ -10,3 +10,7 @@ Your writeup to this challenge **must begin** with the expressions you input to 
 ## Scoring Mechanism
 1. `jail1` gives you 10% of the total score of this challenge.
 2. `jail2` gives you 90% of the total score of this challenge.
+
+## Clarification:
+Your exploit needs to output the contents of flag.txt (for either jail). Simply printing what you see in flag.txt would not count.
+Essentially, even if the content of flag.txt changes, your payload upon execution should output the new content in flag.txt.
