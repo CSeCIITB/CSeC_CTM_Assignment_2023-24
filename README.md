@@ -17,3 +17,4 @@ Fair winds and following seas, sailors!
 2. [Custom Crypto](Custom_Crypto) - 100 points
 2. [Quack Say](Quack_Say) - 150 points
 4. [Something Whaley](Something_Whaley) - 300 points
+5. [The Adventure of Fuglanna](The_Adventure_of_Fuglanna)
