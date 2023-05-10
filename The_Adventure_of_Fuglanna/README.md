@@ -4,4 +4,4 @@ Fieser püppchen is plotting to hide the flag away from tylluan in a desperate a
 
 **NOTE:** Detail all your approaches and methods well in the write-up, whether they work successfully or not. There's more to this challenge than just points :)
 
-Flag Format: IITB{...}
+**Flag Format**: `IITB{...}`
